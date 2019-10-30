@@ -1,6 +1,8 @@
 Reference Repl:
 https://repl.it/@thinkful/news-api-example-DOM
 
+![Assignment](https://media.discordapp.net/attachments/636565266356240394/639136898920742914/screenshot.png?width=1988&height=902)
+
 Assignment:
 Your team is working on an app that will help recruiters review all of a candidates information. You've been assigned to work on one feature for the app - to display a list of repos belonging to a particular GitHub handle.
 
